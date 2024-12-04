@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @08-star
+- 👋 Hi, I’m @08-ved
 - 👀 I’m interested in Making new friends
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on ...
